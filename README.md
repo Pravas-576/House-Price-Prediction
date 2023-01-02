@@ -5,10 +5,10 @@
 #### Dataset to download the link:- https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
 
 ## Content of Projcets:
-  Data Analysis
-  Feature Engineering
-  Feature Selection
-  Model Building
-  Model Deployment
+  1. Data Analysis
+  2. Feature Engineering
+  3. Feature Selection
+  4. Model Building
+  - Model Deployment
   
  
