@@ -8,7 +8,6 @@
   1. Data Analysis
   2. Feature Engineering
   3. Feature Selection
-  4. Model Building
-  - Model Deployment
   
- 
+  Reference:- https://www.youtube.com/watch?v=ioN1jcWxbv8&t=6s
+  
